@@ -19,8 +19,9 @@ namespace ConsoleApplicationSecond
                 {
                     break;
                 }
+
                 string[] rowPerson = line.Split(new string[] { "//" }, StringSplitOptions.None);
-               // Console.WriteLine($"rowPerson[0]={rowPerson[0]} && rowPerson[1]={rowPerson[1]}");
+               
                 if (int.Parse(rowPerson[1]) > 18)
                 {
                     Person nextPerson = new Person(rowPerson[0], int.Parse(rowPerson[1]));
