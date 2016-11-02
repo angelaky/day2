@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\ConsoleApplicationSecond\ConsoleApplicationSecond\bin\Debug\ConsoleApplicationSecond.exe.config
+C:\Users\Student\Desktop\ConsoleApplicationSecond\ConsoleApplicationSecond\bin\Debug\ConsoleApplicationSecond.exe
+C:\Users\Student\Desktop\ConsoleApplicationSecond\ConsoleApplicationSecond\bin\Debug\ConsoleApplicationSecond.pdb
+C:\Users\Student\Desktop\ConsoleApplicationSecond\ConsoleApplicationSecond\obj\Debug\ConsoleApplicationSecond.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\ConsoleApplicationSecond\ConsoleApplicationSecond\obj\Debug\ConsoleApplicationSecond.exe
+C:\Users\Student\Desktop\ConsoleApplicationSecond\ConsoleApplicationSecond\obj\Debug\ConsoleApplicationSecond.pdb
