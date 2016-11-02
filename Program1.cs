@@ -19,7 +19,7 @@ namespace ConsoleApplicationSecond
                 {
                     break;
                 }
-
+                //test
                 string[] rowPerson = line.Split(new string[] { "//" }, StringSplitOptions.None);
                
                 if (int.Parse(rowPerson[1]) > 18)
