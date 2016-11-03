@@ -8,24 +8,25 @@ namespace ConsoleApplicationSecond
 {
     class Course
     {
-        private string _name;
-        private int _duration;
-        private int _capacity;
+        public string _name;
+        public int _duration;
+        public int _capacity;
         private static int currentID = 0;
-        private List<Student> students;
-        public int ID { get; private set; }
+        public List<Student> students;
+        public int IDCourse { get; private set; }
 
         public Course(string name, int duration, int capacity)
         {
             _name = name;
             _duration = duration;
             _capacity = capacity;
-            this.ID = GetNextID();
+            this.IDCourse = GetNextID();
+            students = new List<Student>();
         }
 
         protected int GetNextID()
         {
-            return ++currentID;
+            return currentID++;
         }
 
         public void AddStudent(Student student)
@@ -33,6 +34,11 @@ namespace ConsoleApplicationSecond
             if (students.Contains(student))
             {
                 throw new FormatException("Student is already signed up");
+            }
+
+            if (students.Count == _capacity)
+            {
+                throw new FormatException($"Course {_name} is already full!");
             }
             students.Add(student);
         }

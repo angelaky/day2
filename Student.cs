@@ -11,7 +11,6 @@ namespace ConsoleApplicationSecond
         
         private static int currentID = 0;
         public int ID { get; private set; }
-        public string course { get; set; }
 
         public Student(string name, int age) : base(name, age)
         {
@@ -20,7 +19,7 @@ namespace ConsoleApplicationSecond
 
         protected int GetNextID()
         {            
-            return ++currentID;
+            return currentID++;
         }
 
         public override string ToString()
