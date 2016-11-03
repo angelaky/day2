@@ -21,13 +21,24 @@ namespace ConsoleApplicationSecond
 
             Person fPerson = new Person();
             Person sPerson = new Person(inputName);
-            Person tPerson = new Person(inputName, inAge);
-
-            Person[] persons = new Person[] { fPerson, sPerson, tPerson };
-            foreach (Person person in persons)
+            Person tPerson;
+            try
             {
-                person.PrintNameAge();
+                tPerson = new Person(inputName, inAge);
+                Person[] persons = new Person[] { fPerson, sPerson, tPerson };
+                foreach (Person person in persons)
+                {
+                    person.PrintNameAge();
+                }
             }
+            catch (Exception e)
+            {
+
+                Console.WriteLine("BAD: " + e.Message );
+            }
+            
+
+            
 
         }
     }

@@ -8,12 +8,8 @@ namespace ConsoleApplicationSecond
 {
  class Person
         {
-            public string _name;
-            public int _age;
-
-           
-            public string Name { get; set; }
-            public int Age { get; set; }
+        public string _name;
+        public int _age;
 
         public Person()
         {
