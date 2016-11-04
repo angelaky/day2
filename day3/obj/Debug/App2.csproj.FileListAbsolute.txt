@@ -1,1 +1,2 @@
 C:\Users\Student\day2\day3\bin\Debug\App2.exe.config
+C:\Users\Student\Tasks\day3\bin\Debug\App2.exe.config
