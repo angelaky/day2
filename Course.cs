@@ -33,12 +33,12 @@ namespace ConsoleApplicationSecond
         {    
             if (student.signed)
             {
-                throw new FormatException("Student is already signed up");
+                throw new InvalidOperationException("Student is already signed up");
             }
 
             if (students.Count == _capacity)
             {
-                throw new FormatException($"Course {_name} is already full!");
+                throw new InvalidOperationException($"Course {_name} is already full!");
             }
             students.Add(student);
             student.signed = true;
