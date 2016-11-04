@@ -10,11 +10,13 @@ namespace ConsoleApplicationSecond
     {
         
         private static int currentID = 0;
+        public bool signed { get; set; }
         public int ID { get; private set; }
 
         public Student(string name, int age) : base(name, age)
         {
-            this.ID = GetNextID();
+            ID = GetNextID();
+            signed = false;
         }
 
         protected int GetNextID()

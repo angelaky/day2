@@ -30,8 +30,8 @@ namespace ConsoleApplicationSecond
         }
 
         public void AddStudent(Student student)
-        {
-            if (students.Contains(student))
+        {    
+            if (student.signed)
             {
                 throw new FormatException("Student is already signed up");
             }
@@ -41,6 +41,7 @@ namespace ConsoleApplicationSecond
                 throw new FormatException($"Course {_name} is already full!");
             }
             students.Add(student);
+            student.signed = true;
         }
 
         public void RemoveStudent(Student student)

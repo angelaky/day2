@@ -17,8 +17,7 @@ namespace ConsoleApplicationSecond
             bool checkStudentExists = students.Any(x => x.ID == studentID);
 
             if (!checkCourceExists)
-            {
-                
+            {                
                 Console.WriteLine("Course does not exist");
             }
             else if (!checkStudentExists)
