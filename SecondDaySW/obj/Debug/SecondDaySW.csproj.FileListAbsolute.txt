@@ -1,0 +1,6 @@
+C:\Users\Student\Tasks\SecondDaySW\bin\Debug\SecondDaySW.exe.config
+C:\Users\Student\Tasks\SecondDaySW\bin\Debug\SecondDaySW.exe
+C:\Users\Student\Tasks\SecondDaySW\bin\Debug\SecondDaySW.pdb
+C:\Users\Student\Tasks\SecondDaySW\obj\Debug\SecondDaySW.csprojResolveAssemblyReference.cache
+C:\Users\Student\Tasks\SecondDaySW\obj\Debug\SecondDaySW.exe
+C:\Users\Student\Tasks\SecondDaySW\obj\Debug\SecondDaySW.pdb

@@ -1,0 +1,2 @@
+C:\Users\Student\Tasks\Events\bin\Debug\Events.exe.config
+C:\Users\Student\Tasks\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Student\Tasks\GenericList\bin\Debug\GenericList.exe.config
+C:\Users\Student\Tasks\GenericList\bin\Debug\GenericList.exe
+C:\Users\Student\Tasks\GenericList\bin\Debug\GenericList.pdb
+C:\Users\Student\Tasks\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
+C:\Users\Student\Tasks\GenericList\obj\Debug\GenericList.exe
+C:\Users\Student\Tasks\GenericList\obj\Debug\GenericList.pdb
