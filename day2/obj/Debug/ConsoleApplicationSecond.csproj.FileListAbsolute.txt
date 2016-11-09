@@ -16,3 +16,9 @@ C:\Users\Student\Desktop\CsharpAA\obj\Debug\ConsoleApplicationSecond.pdb
 C:\Users\Student\Desktop\CsharpAA\bin\Debug\ConsoleApplicationSecond.exe
 C:\Users\Student\Desktop\CsharpAA\bin\Debug\ConsoleApplicationSecond.pdb
 C:\Users\Student\Desktop\CsharpAA\obj\Debug\ConsoleApplicationSecond.csprojResolveAssemblyReference.cache
+C:\Users\Student\Tasks\day2\bin\Debug\ConsoleApplicationSecond.exe.config
+C:\Users\Student\Tasks\day2\obj\Debug\ConsoleApplicationSecond.exe
+C:\Users\Student\Tasks\day2\obj\Debug\ConsoleApplicationSecond.pdb
+C:\Users\Student\Tasks\day2\bin\Debug\ConsoleApplicationSecond.exe
+C:\Users\Student\Tasks\day2\bin\Debug\ConsoleApplicationSecond.pdb
+C:\Users\Student\Tasks\day2\obj\Debug\ConsoleApplicationSecond.csprojResolveAssemblyReference.cache

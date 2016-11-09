@@ -1,0 +1,5 @@
+C:\Users\Student\Tasks\DictionariDemo\bin\Debug\DictionariDemo.exe.config
+C:\Users\Student\Tasks\DictionariDemo\bin\Debug\DictionariDemo.exe
+C:\Users\Student\Tasks\DictionariDemo\bin\Debug\DictionariDemo.pdb
+C:\Users\Student\Tasks\DictionariDemo\obj\Debug\DictionariDemo.exe
+C:\Users\Student\Tasks\DictionariDemo\obj\Debug\DictionariDemo.pdb
