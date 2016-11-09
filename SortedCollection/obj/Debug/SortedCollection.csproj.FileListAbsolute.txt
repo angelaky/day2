@@ -1,0 +1,6 @@
+C:\Users\Student\Tasks\SortedCollection\bin\Debug\SortedCollection.exe.config
+C:\Users\Student\Tasks\SortedCollection\bin\Debug\SortedCollection.exe
+C:\Users\Student\Tasks\SortedCollection\bin\Debug\SortedCollection.pdb
+C:\Users\Student\Tasks\SortedCollection\obj\Debug\SortedCollection.csprojResolveAssemblyReference.cache
+C:\Users\Student\Tasks\SortedCollection\obj\Debug\SortedCollection.exe
+C:\Users\Student\Tasks\SortedCollection\obj\Debug\SortedCollection.pdb

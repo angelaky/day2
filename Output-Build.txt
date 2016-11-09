@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: WordsCount, Configuration: Debug Any CPU ------
+1>  WordsCount -> C:\Users\Student\Tasks\WordsCount\bin\Debug\WordsCount.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
