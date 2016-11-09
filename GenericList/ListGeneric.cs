@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace GenericList
 {
-    public class ListGeneric<T>
+    public class ListGeneric<T> : IEnumerable<T>
     {
-        private static int currentID = 0;
+        private int currentID = 0;
         private T[] array;
 
         public ListGeneric()
@@ -29,8 +30,7 @@ namespace GenericList
 
             array[currentID] = element;
             currentID = currentID + 1;
-            string text = "Alabala";
-            //this.OnChange(text);
+
         }
 
         public int Remove(T element)
@@ -55,13 +55,32 @@ namespace GenericList
             {
                 return 0;
             }
-
-            //array = firsthalf;
+            
         }
 
         public T GetElement(int index)
         {
             return array[index];
+        }
+
+        public IEnumerator<T> GetEnumerator()
+        {
+            for (int i = 0; i < this.currentID; i++)
+            {
+                yield return array[i];
+            }
+         
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            throw new NotImplementedException();
+        }
+
+        public T this[int index]
+        {
+            get { return this.array[index]; }
+            set { this.array[index] = value; }
         }
 
     }

@@ -10,7 +10,7 @@ namespace GenericList
     {
         static void Main(string[] args)
         {
-            // GenericClass<int> genericClass = new GenericClass<int>(5);
+            
             ListGeneric<int> genericList = new ListGeneric<int>();
 
             genericList.Add(4);
@@ -20,6 +20,12 @@ namespace GenericList
             genericList.Remove(7);
 
             Console.WriteLine(genericList.GetElement(1));
+            Console.WriteLine(genericList[1]);
+
+            foreach (int value in genericList)
+            {
+                Console.WriteLine(value);
+            }
 
         }
     }
