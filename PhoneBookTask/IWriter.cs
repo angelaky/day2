@@ -8,6 +8,6 @@ namespace PhoneBookTask
 {
     public interface IWriter
     {
-        void WriteTo(string destination);
+        void WriteTo(PhoneBooks phoneBook);
     }
 }

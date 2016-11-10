@@ -8,10 +8,13 @@ namespace PhoneBookTask
 {
     public class WriterConsole : IWriter
     {
-        public void WriteTo(string destination)
+        public void WriteTo(PhoneBooks phoneBook)
         {
+            //foreach (var item in phoneBook)
+            //{
 
-            
+            //}
+           // Console.WriteLine();
         }
     }
 }
