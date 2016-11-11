@@ -1,1 +1,5 @@
 C:\Users\Student\Tasks\GenericListLast\bin\Debug\GenericListLast.exe.config
+C:\Users\Student\Tasks\GenericListLast\bin\Debug\GenericListLast.exe
+C:\Users\Student\Tasks\GenericListLast\bin\Debug\GenericListLast.pdb
+C:\Users\Student\Tasks\GenericListLast\obj\Debug\GenericListLast.exe
+C:\Users\Student\Tasks\GenericListLast\obj\Debug\GenericListLast.pdb

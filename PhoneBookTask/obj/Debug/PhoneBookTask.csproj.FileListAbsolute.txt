@@ -1,1 +1,5 @@
 C:\Users\Student\Tasks\PhoneBookTask\bin\Debug\PhoneBookTask.exe.config
+C:\Users\Student\Tasks\PhoneBookTask\bin\Debug\PhoneBookTask.exe
+C:\Users\Student\Tasks\PhoneBookTask\bin\Debug\PhoneBookTask.pdb
+C:\Users\Student\Tasks\PhoneBookTask\obj\Debug\PhoneBookTask.exe
+C:\Users\Student\Tasks\PhoneBookTask\obj\Debug\PhoneBookTask.pdb

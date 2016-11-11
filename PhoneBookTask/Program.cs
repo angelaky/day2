@@ -10,6 +10,13 @@ namespace PhoneBookTask
     {
         static void Main(string[] args)
         {
+            RunTask();
+        }
+
+        public static void RunTask() {
+
+
+            
         }
     }
 }

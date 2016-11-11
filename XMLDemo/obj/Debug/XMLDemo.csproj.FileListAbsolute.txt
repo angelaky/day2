@@ -1,0 +1,5 @@
+C:\Users\Student\Tasks\XMLDemo\bin\Debug\XMLDemo.exe.config
+C:\Users\Student\Tasks\XMLDemo\bin\Debug\XMLDemo.exe
+C:\Users\Student\Tasks\XMLDemo\bin\Debug\XMLDemo.pdb
+C:\Users\Student\Tasks\XMLDemo\obj\Debug\XMLDemo.exe
+C:\Users\Student\Tasks\XMLDemo\obj\Debug\XMLDemo.pdb

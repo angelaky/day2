@@ -8,13 +8,17 @@ namespace PhoneBookTask
 {
     public class WriterConsole : IWriter
     {
-        public void WriteTo(PhoneBooks phoneBook)
-        {
-            //foreach (var item in phoneBook)
-            //{
+        //public void WriteTo(PhoneBooks phoneBook)
+        //{
+        //    foreach (var item in phoneBook)
+        //    {
+        //        Console.WriteLine("aaa");
+        //    }
 
-            //}
-           // Console.WriteLine();
+        //}
+        public void WriteTo(PhoneBooks phoneBook, string serializationType)
+        {
+            throw new NotImplementedException();
         }
     }
 }

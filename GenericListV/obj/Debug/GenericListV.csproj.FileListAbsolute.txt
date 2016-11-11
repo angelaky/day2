@@ -1,1 +1,5 @@
 C:\Users\Student\Tasks\GenericListV\bin\Debug\GenericListV.exe.config
+C:\Users\Student\Tasks\GenericListV\bin\Debug\GenericListV.exe
+C:\Users\Student\Tasks\GenericListV\bin\Debug\GenericListV.pdb
+C:\Users\Student\Tasks\GenericListV\obj\Debug\GenericListV.exe
+C:\Users\Student\Tasks\GenericListV\obj\Debug\GenericListV.pdb

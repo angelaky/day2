@@ -12,11 +12,14 @@ namespace PhoneBookTask
 
         static IEqualityComparer<Person> comparer = new PhonesComparer();
 
-        HashSet<Person> personPhone = new HashSet<Person>(comparer);
+        //public HashSet<Person> personPhone { get; set; }
+
+        public HashSet<Person> personPhone = new HashSet<Person>(comparer);
 
         public PhoneBooks()
         {
-            PersonsList = new List<Person>();            
+            PersonsList = new List<Person>();
+            HashSet<Person> personPhone = new HashSet<Person>(comparer);
         }
 
         public void Add(Person person)
@@ -24,6 +27,7 @@ namespace PhoneBookTask
             if (personPhone.Contains(person))
             {
                 Console.WriteLine("Try again! Person is already added");
+                throw new ArgumentException("Invalid argument");
             }
             else
             {

@@ -8,6 +8,6 @@ namespace PhoneBookTask
 {
     public interface IWriter
     {
-        void WriteTo(PhoneBooks phoneBook);
+        void WriteTo(PhoneBooks phoneBook, String serializationType);
     }
 }

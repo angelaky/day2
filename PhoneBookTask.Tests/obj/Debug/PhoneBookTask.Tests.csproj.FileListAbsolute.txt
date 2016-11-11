@@ -1,0 +1,8 @@
+C:\Users\Student\Tasks\PhoneBookTask.Tests\bin\Debug\PhoneBookTask.Tests.dll
+C:\Users\Student\Tasks\PhoneBookTask.Tests\bin\Debug\PhoneBookTask.Tests.pdb
+C:\Users\Student\Tasks\PhoneBookTask.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Student\Tasks\PhoneBookTask.Tests\bin\Debug\PhoneBookTask.exe
+C:\Users\Student\Tasks\PhoneBookTask.Tests\bin\Debug\PhoneBookTask.pdb
+C:\Users\Student\Tasks\PhoneBookTask.Tests\obj\Debug\PhoneBookTask.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Student\Tasks\PhoneBookTask.Tests\obj\Debug\PhoneBookTask.Tests.dll
+C:\Users\Student\Tasks\PhoneBookTask.Tests\obj\Debug\PhoneBookTask.Tests.pdb

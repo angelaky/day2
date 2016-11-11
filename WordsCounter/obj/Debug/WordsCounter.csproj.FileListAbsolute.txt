@@ -1,0 +1,5 @@
+C:\Users\Student\Tasks\WordsCounter\bin\Debug\WordsCounter.exe.config
+C:\Users\Student\Tasks\WordsCounter\bin\Debug\WordsCounter.exe
+C:\Users\Student\Tasks\WordsCounter\bin\Debug\WordsCounter.pdb
+C:\Users\Student\Tasks\WordsCounter\obj\Debug\WordsCounter.exe
+C:\Users\Student\Tasks\WordsCounter\obj\Debug\WordsCounter.pdb

@@ -3,4 +3,3 @@ C:\Users\Student\Tasks\WordsCount\bin\Debug\WordsCount.exe
 C:\Users\Student\Tasks\WordsCount\bin\Debug\WordsCount.pdb
 C:\Users\Student\Tasks\WordsCount\obj\Debug\WordsCount.exe
 C:\Users\Student\Tasks\WordsCount\obj\Debug\WordsCount.pdb
-C:\Users\Student\Tasks\WordsCount\obj\Debug\WordsCount.csprojResolveAssemblyReference.cache

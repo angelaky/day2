@@ -2,7 +2,8 @@ C:\Users\Student\Tasks\JSONSerialization\bin\Debug\JSONSerialization.exe.config
 C:\Users\Student\Tasks\JSONSerialization\bin\Debug\JSONSerialization.exe
 C:\Users\Student\Tasks\JSONSerialization\bin\Debug\JSONSerialization.pdb
 C:\Users\Student\Tasks\JSONSerialization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Student\Tasks\JSONSerialization\bin\Debug\nunit.framework.dll
 C:\Users\Student\Tasks\JSONSerialization\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Student\Tasks\JSONSerialization\obj\Debug\JSONSerialization.csprojResolveAssemblyReference.cache
+C:\Users\Student\Tasks\JSONSerialization\bin\Debug\nunit.framework.xml
 C:\Users\Student\Tasks\JSONSerialization\obj\Debug\JSONSerialization.exe
 C:\Users\Student\Tasks\JSONSerialization\obj\Debug\JSONSerialization.pdb

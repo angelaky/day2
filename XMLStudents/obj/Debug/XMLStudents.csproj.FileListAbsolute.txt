@@ -1,6 +1,5 @@
 C:\Users\Student\Tasks\XMLStudents\bin\Debug\XMLStudents.exe.config
 C:\Users\Student\Tasks\XMLStudents\bin\Debug\XMLStudents.exe
 C:\Users\Student\Tasks\XMLStudents\bin\Debug\XMLStudents.pdb
-C:\Users\Student\Tasks\XMLStudents\obj\Debug\XMLStudents.csprojResolveAssemblyReference.cache
 C:\Users\Student\Tasks\XMLStudents\obj\Debug\XMLStudents.exe
 C:\Users\Student\Tasks\XMLStudents\obj\Debug\XMLStudents.pdb

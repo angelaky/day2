@@ -3,4 +3,3 @@ C:\Users\Student\Tasks\MyList\bin\Debug\MyList.exe
 C:\Users\Student\Tasks\MyList\bin\Debug\MyList.pdb
 C:\Users\Student\Tasks\MyList\obj\Debug\MyList.exe
 C:\Users\Student\Tasks\MyList\obj\Debug\MyList.pdb
-C:\Users\Student\Tasks\MyList\obj\Debug\MyList.csprojResolveAssemblyReference.cache
